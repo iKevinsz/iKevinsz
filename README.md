@@ -1,76 +1,99 @@
-# Olá, eu sou Kevin! 👋
-
-### 🚀 Full Stack Developer | Next.js & AI Enthusiast
-
-Sou um desenvolvedor apaixonado por criar sistemas robustos e interfaces modernas. Atualmente focado em modernizar aplicações comerciais e integrar Inteligência Artificial para otimizar processos de gestão e atendimento.
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend & Data**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-**AI & Integrations**
-![Google Gemini](https://img.shields.io/badge/-Google_Gemini-8E75B2?style=flat&logo=google-bard&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
----
-
-### 🔭 Projetos Recentes & Experiência
-
-#### 📊 **Dashboard Financeiro & Consultor IA**
-Desenvolvimento de um sistema de planejamento financeiro pessoal e empresarial.
-- **Tech:** Next.js 15 (App Router), Server Actions, Prisma e Tailwind.
-- **Destaque:** Integração de um **"Consultor IA"** (via Google Gemini) que analisa o fluxo de caixa e fornece dicas de economia e investimentos em tempo real.
-- **Visualização:** Gráficos interativos e tabelas dinâmicas com filtros de período.
-
-#### 🛒 **Gestão Web (ERP & Cardápio Digital)**
-Trabalho focado na otimização e modernização de interfaces para sistemas de Cardápio Digital, PDV e Gestão.
-- **Foco:** Criação de fluxos de cadastro de produtos, gestão de vendas, gestão de faturamento e financeiro e relatórios fiscais.
-- **Mobile:** Design e implementação de interfaces responsivas para aplicativos de gestão.
-- **Suporte Inteligente:** Implementação de base de conhecimento com RAG para auxiliar no suporte ao cliente.
-
-#### 💡 **Sistema de Feedback Colaborativo**
-Plataforma para coleta e votação de sugestões de melhoria para softwares.
-- **Funcionalidades:** Votação (Likes), Status (Pendente/Concluído) e modais de interação rápida.
-- **Arquitetura:** Uso intensivo de *Server Actions* para performance e segurança nas requisições ao banco.
-
----
-
-### ⚡ Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iKevinsz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iKevinsz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
 
----
-<div align="center">
-  <a href="mailto:fioreelokevin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Entre_em_contato-Email-red?style=for-the-badge&logo=gmail" alt="Email" />
+  # Olá, eu sou Kevin! 👋
+
+  <a href="https://github.com/iKevinsz">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%26+AI+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
+
+  <p>
+    <em>Desenvolvedor apaixonado por criar sistemas robustos e interfaces modernas. <br/> Atualmente focado em modernizar aplicações comerciais e integrar Inteligência Artificial.</em>
+  </p>
+
+  <br/>
+
   <a href="https://www.linkedin.com/in/kevin-rodrigo-000632209/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fioreelokevin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/kev1n_x/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+
+</div>
+
+<br/>
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
 </div>
 
 ---
-### 👾 Curiosidades
 
-* 🎮 **Gamer:** Nas horas vagas, tento subir de elo no **League of Legends** (Main Miss Fortune 🔫).
-* 📺 **Anime:** No tempo livre também tento assistir alguns animes ⚔️
+### 🔭 Experiência Profissional & Projetos
+
+#### 🏢 **Software House (Atual)**
+Atuo no desenvolvimento e sustentação de sistemas complexos, com foco em:
+* **Gestão Web (ERP & Cardápio Digital):** Criação de fluxos de cadastro, gestão financeira e fiscal.
+* **Mobile:** Design de interfaces responsivas para aplicativos de gestão.
+* **Suporte Inteligente:** Implementação de RAG (Retrieval-Augmented Generation) para suporte ao cliente.
+
+#### 📊 **Dashboard Financeiro & Consultor IA (Projeto Pessoal)**
+Sistema de planejamento financeiro integrado com IA.
+* **Tech:** Next.js 15, Server Actions, Prisma.
+* **Destaque:** Um "Consultor IA" (Gemini) que analisa gastos e sugere economias.
+
+#### 💡 **Sistema de Feedback Colaborativo**
+Plataforma de votação para sugestões de melhoria em softwares.
+* **Arquitetura:** Foco em performance e segurança com *Server Actions*.
+
 ---
 
+### ⚡ GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iKevinsz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iKevinsz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iKevinsz/iKevinsz/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+</div>
+
+<br/>
+
+---
+
+### 👾 Sobre Mim
+
+<div align="center">
+  
+  | 🎓 Formação | 🎮 Hobby | ⛩️ Anime |
+  | :---: | :---: | :---: |
+  | **Análise e Desenv. de Sistemas**<br/>FATEC | **League of Legends**<br/>Main Miss Fortune 🔫 | **Demon Slayer**<br/>Fã dos Hashiras ⚔️ |
+
+</div>
