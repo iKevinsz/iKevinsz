@@ -3,11 +3,11 @@
   # Olá, eu sou Kevin! 👋
 
   <a href="https://github.com/iKevinsz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%26+AI+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Front+End+Developer;React+%26+Next.js+Specialist;UX%2FUI+%26+Pixel+Perfect" alt="Typing SVG" />
   </a>
 
   <p>
-    <em>Desenvolvedor apaixonado por criar sistemas robustos e interfaces modernas. <br/> Atualmente focado em modernizar aplicações comerciais e integrar Inteligência Artificial.</em>
+    <em>Desenvolvedor Front End focado em criar <b>interfaces de alta fidelidade</b> e experiências fluidas.<br/> Especialista em transformar design em código performático usando o ecossistema React.</em>
   </p>
 
   <br/>
@@ -28,48 +28,51 @@
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🎨 Front End & UI Stack (Core)
 
 <div align="center">
 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
-  <br/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+
+</div>
+
+### ⚙️ Backend, Infra & Integrações
+
+<div align="center">
 
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-
-  <br/>
-
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
 
 ---
 
-### 🔭 Experiência Profissional & Projetos
+### 🔭 Projetos com Foco em UX/UI
 
 #### 🏢 **Software House (Atual)**
-Atuo no desenvolvimento e sustentação de sistemas complexos, com foco em:
-* **Gestão Web (ERP & Cardápio Digital):** Criação de fluxos de cadastro, gestão financeira e fiscal.
-* **Mobile:** Design de interfaces responsivas para aplicativos de gestão.
-* **Suporte Inteligente:** Implementação de RAG (Retrieval-Augmented Generation) para suporte ao cliente.
+Foco na modernização de interfaces comerciais e responsividade.
+* **Front End:** Desenvolvimento de interfaces complexas para ERPs e Cardápios Digitais.
+* **UX Mobile:** Otimização da jornada do usuário em dispositivos móveis (Mobile First).
+* **Interatividade:** Implementação de fluxos dinâmicos para cadastro e gestão de vendas.
 
 #### 📊 **Dashboard Financeiro & Consultor IA (Projeto Pessoal)**
-Sistema de planejamento financeiro integrado com IA.
-* **Tech:** Next.js 15, Server Actions, Prisma.
-* **Destaque:** Um "Consultor IA" (Gemini) que analisa gastos e sugere economias.
+Interface de dados rica e interativa.
+* **Tech:** Next.js 15, Tailwind, Recharts.
+* **UI:** Gráficos interativos, tabelas dinâmicas e transições suaves.
+* **Feature:** Integração visual limpa com a API do Gemini para consultoria financeira.
 
 #### 💡 **Sistema de Feedback Colaborativo**
-Plataforma de votação para sugestões de melhoria em softwares.
-* **Arquitetura:** Foco em performance e segurança com *Server Actions*.
+Foco em interações rápidas e feedback visual.
+* **UX:** Uso de *Server Actions* e *Optimistic UI* para atualizações instantâneas de tela sem loading excessivo.
 
 ---
 
@@ -88,12 +91,12 @@ Plataforma de votação para sugestões de melhoria em softwares.
 
 ---
 
-### 👾 Sobre Mim
+### 👾 Formação
 
 <div align="center">
   
-  | 🎓 Formação | 🎮 Hobby | ⛩️ Anime |
-  | :---: | :---: | :---: |
-  | **Análise e Desenv. de Sistemas**<br/>FATEC | **League of Legends**<br/>Main Miss Fortune 🔫 | **Demon Slayer**<br/>Fã dos Hashiras ⚔️ |
+  | 🎓 Formação | 
+  | :---: | 
+  | **Análise e Desenv. de Sistemas**<br/>FATEC | 
 
 </div>
