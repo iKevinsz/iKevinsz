@@ -71,8 +71,6 @@ Plataforma para coleta e votação de sugestões de melhoria para softwares.
 ### 👾 Curiosidades
 
 * 🎮 **Gamer:** Nas horas vagas, tento subir de elo no **League of Legends** (Main Miss Fortune 🔫).
-* 📺 **Anime:** Fã de carteirinha de **Demon Slayer** (Hashira em treinamento ⚔️).
-* ⚡ **Potterhead:** Sempre esperando minha carta de Hogwarts (Hagrid é o melhor personagem, sem discussão).
-
+* 📺 **Anime:** No tempo livre também tento assistir alguns animes ⚔️
 ---
 
