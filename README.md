@@ -34,9 +34,9 @@ Desenvolvimento de um sistema de planejamento financeiro pessoal e empresarial.
 - **Destaque:** Integração de um **"Consultor IA"** (via Google Gemini) que analisa o fluxo de caixa e fornece dicas de economia e investimentos em tempo real.
 - **Visualização:** Gráficos interativos e tabelas dinâmicas com filtros de período.
 
-#### 🛒 **Gestão Datacaixa (ERP & PDV)**
-Trabalho focado na otimização e modernização de interfaces para sistemas de Ponto de Venda e Gestão.
-- **Foco:** Criação de fluxos de cadastro de produtos, gestão de comandas e relatórios fiscais.
+#### 🛒 **Gestão Web (ERP & Cardápio Digital)**
+Trabalho focado na otimização e modernização de interfaces para sistemas de Cardápio Digital, PDV e Gestão.
+- **Foco:** Criação de fluxos de cadastro de produtos, gestão de vendas, gestão de faturamento e financeiro e relatórios fiscais.
 - **Mobile:** Design e implementação de interfaces responsivas para aplicativos de gestão.
 - **Suporte Inteligente:** Implementação de base de conhecimento com RAG para auxiliar no suporte ao cliente.
 
@@ -50,26 +50,11 @@ Plataforma para coleta e votação de sugestões de melhoria para softwares.
 ### ⚡ Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iKevinsz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKevinsz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iKevinsz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iKevinsz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-### 👾 Curiosidades
-
-* 🎮 **Gamer:** Nas horas vagas, tento subir de elo no **League of Legends** (Main Miss Fortune 🔫).
-* 📺 **Anime:** Fã de carteirinha de **Demon Slayer** (Hashira em treinamento ⚔️).
-* ⚡ **Potterhead:** Sempre esperando minha carta de Hogwarts (Hagrid é o melhor personagem, sem discussão).
-
----
-
 <div align="center">
   <a href="mailto:fioreelokevin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Entre_em_contato-Email-red?style=for-the-badge&logo=gmail" alt="Email" />
@@ -81,3 +66,13 @@ Plataforma para coleta e votação de sugestões de melhoria para softwares.
     <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
+
+---
+### 👾 Curiosidades
+
+* 🎮 **Gamer:** Nas horas vagas, tento subir de elo no **League of Legends** (Main Miss Fortune 🔫).
+* 📺 **Anime:** Fã de carteirinha de **Demon Slayer** (Hashira em treinamento ⚔️).
+* ⚡ **Potterhead:** Sempre esperando minha carta de Hogwarts (Hagrid é o melhor personagem, sem discussão).
+
+---
+
