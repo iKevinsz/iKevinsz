@@ -1,11 +1,10 @@
-# Olá, eu sou [Kevin]! 👋
+# Olá, eu sou Kevin! 👋
 
 ### 🚀 Full Stack Developer | Next.js & AI Enthusiast
 
 Sou um desenvolvedor apaixonado por criar sistemas robustos e interfaces modernas. Atualmente focado em modernizar aplicações comerciais e integrar Inteligência Artificial para otimizar processos de gestão e atendimento.
 
 ---
-
 
 ### 🛠️ Tech Stack
 
@@ -51,18 +50,17 @@ Plataforma para coleta e votação de sugestões de melhoria para softwares.
 ### ⚡ Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[iKevinsz]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[iKevinsz]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iKevinsz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKevinsz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
-<!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
---
+---
 
 ### 👾 Curiosidades
 
@@ -73,13 +71,13 @@ Plataforma para coleta e votação de sugestões de melhoria para softwares.
 ---
 
 <div align="center">
-  <a href="mailto:[fioreelokevin@gmail.com]" target="_blank">
+  <a href="mailto:fioreelokevin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Entre_em_contato-Email-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/[[SEU_LINKEDIN](https://www.linkedin.com/in/kevin-rodrigo-000632209/)]" target="_blank">
+  <a href="https://www.linkedin.com/in/kevin-rodrigo-000632209/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/[[SEU_INSTAGRAM](https://www.instagram.com/kev1n_x/?hl=pt-br)]" target="_blank">
+  <a href="https://www.instagram.com/kev1n_x/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
